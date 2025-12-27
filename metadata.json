@@ -1,0 +1,5 @@
+{
+  "name": "Copy of F1 Unpredictability Index",
+  "description": "A high-performance data visualization tool for analyzing Formula 1 circuit unpredictability using AI-synthesized historical data and key performance metrics like Safety Car deployments and weather volatility.",
+  "requestFramePermissions": []
+}
