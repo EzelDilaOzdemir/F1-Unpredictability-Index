@@ -78,6 +78,7 @@ The **F1 Unpredictability Index** leverages the **Google Gemini AI** engine to c
 ├── vite.config.ts        # Vite configuration
 └── package.json          # Dependencies and scripts
 
+---
 🤝** Contributing**
 Contributions are welcome!
 Please follow these steps:
